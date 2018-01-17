@@ -47,3 +47,8 @@ source 'https://rubygems.org'
   gem 'shoulda'
   gem 'factory_girl_rails', '~> 4.0'
  end
+
+#authentication
+ gem 'devise'
+
+ gem 'bootstrap-sass'
